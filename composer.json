@@ -1,5 +1,5 @@
 {
-  "name": "cwinkgen-ms/web-push-php",
+  "name": "tmgmbh/web-push-php",
   "type": "library",
   "description": "Web Push library for PHP",
   "keywords": ["push", "notifications", "web", "WebPush", "Push API"],
